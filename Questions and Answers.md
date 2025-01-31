@@ -1,11 +1,5 @@
 # IPL-Data-Analysis-Case-Study-Using-SQL
 
-**Case study on [iThinkData](https://www.youtube.com/@iThinkData) By Vaibhav Chavan**
-
-Subscribe to [iThinkData](https://www.youtube.com/@iThinkData) for more SQL case studies and tutorials.
-
----
-
 ## A. Basic Level Questions
 
 ### Q1. Winner of the season team
@@ -706,17 +700,5 @@ ORDER BY season,
 | 2024 | Arshdeep Singh      | 11      |
 | 2024 | T Natarajan         | 11      |
 
-- -----------------------------------------------------------------------
 
-### 🙋‍♂️ About Me
-
-I’m **Vaibhav Chavan**, the creator of [iThinkData](https://www.youtube.com/@iThinkData?sub_confirmation=1), a platform dedicated to making data analytics and SQL easy to understand for everyone. Follow along as I dive deep into SQL tutorials, case studies, and data projects on YouTube.
-
-**🌟 Stay Connected with iThinkData ! 🌟**
-
-**🎥 Subscribe to [iThinkData](https://www.youtube.com/@iThinkData?sub_confirmation=1) :**  🔔 Don't miss out on weekly data challenges, tutorials, and expert insights! 💡📈
-
-**👨‍💼 [LinkedIn](https://linkedin.com/in/vaibhav-chavan) :**  📊 Let’s connect professionally and build a powerful data-driven network! 💼🌐
-
-**💬 Join My [WhatsApp Channel](https://whatsapp.com/channel/0029VaoircxInlqLbopDNS2K) :** 📱 Be the first to get exclusive content, project updates, and new videos! 🚀📊
 
