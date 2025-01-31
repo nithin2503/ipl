@@ -11,6 +11,6 @@ These SQL queries have been crafted to explore key cricket statistics, including
 **Purpose**
 The main objective of this case study is to:
 
-1)Understand how SQL can be used to extract meaningful insights from large datasets.
-2)Solve real-world analytical questions related to IPL matches and player performances.
+1) Understand how SQL can be used to extract meaningful insights from large datasets.
+2) Solve real-world analytical questions related to IPL matches and player performances.
 3)Demonstrate SQL techniques, including JOINs, Window Functions, GROUP BY, HAVING, and Ranking Functions.
